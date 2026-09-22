@@ -1,0 +1,1 @@
+Command-Deck Density: Fluent Blue, system UI font, collapsible left archive navigation, compact command bar, dense records table, restrained Microsoft Fluent styling.
